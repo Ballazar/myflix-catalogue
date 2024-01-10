@@ -33,7 +33,7 @@ import java.util.List;
 public class catalogue {
 
     
-    String CatalogueServer="35.185.99.145";
+    String CatalogueServer="34.16.96.108";
     
     public void catalogue() {
 
