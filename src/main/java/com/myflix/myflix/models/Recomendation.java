@@ -23,7 +23,7 @@ public class Recomendation {
     boolean sent = false;
     OutputStream os = null;
     PrintWriter out = null;
-    String ip = "35.246.123.165";
+    String ip = "34.132.46.46";
 
     public Recomendation() {
         
